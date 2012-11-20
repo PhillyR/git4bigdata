@@ -1,3 +1,7 @@
+---
+title: This will be used as the title-tag of the page head
+---
+
 ### Intro
 Version control (VC) has been a mainstay of software development for [40 years](http://en.wikipedia.org/wiki/Source_Code_Control_System), but recent advances in VC frameworks, namely the distributed model popularized by Git, offer opportunities to address many of the challenges faced by big data analysis. In addition to the traditional software development necessities of versioning and collaborative development, data analysis presents some unique demands of VC software. These are inherent to the analysis model, in which input data and parameters are processed to produce reports.
 
